@@ -1,0 +1,5 @@
+train: ../data/train/images
+val: ../data/train/val
+
+nc: 2
+names: ['spot','no spot']
